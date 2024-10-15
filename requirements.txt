@@ -1,0 +1,6 @@
+fastapi
+pydantic
+aiosmtplib
+python-dotenv
+uvicorn
+email-validator
