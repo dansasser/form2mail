@@ -1,6 +1,6 @@
-# Contact Form Emailer
+# Form2Mail
 
-**Contact Form Emailer** is a customizable tool designed to handle website contact form submissions via email using **FastAPI** and **SMTP integration**. It offers secure and efficient contact form processing, automatically sending emails upon form submission, and supports API key authentication for added security. This application is ideal for developers who need a reliable backend service for contact forms with customizable email sending capabilities.
+**Form2Mail** is a customizable tool designed to handle website contact form submissions via email using **FastAPI** and **SMTP integration**. It offers secure and efficient contact form processing, automatically sending emails upon form submission, and supports API key authentication for added security. This application is ideal for developers who need a reliable backend service for contact forms with customizable email sending capabilities.
 
 ## About GOROMBO
 
@@ -12,7 +12,7 @@ Stay connected with us:
 
 - [GOROMBO on Facebook](https://www.facebook.com/GoromboDevelopment)
 
-## Key Features of Contact Form Emailer
+## Key Features of Form2Mail
 
 - **FastAPI Contact Form Processing**: Built with FastAPI for quick and efficient handling of contact form submissions.
 - **SMTP Email Delivery Integration**: Sends emails using your SMTP server, allowing full control over email delivery.
@@ -48,7 +48,7 @@ This FastAPI contact form emailer is structured to ensure easy configuration and
 
 ## Installation and Setup
 
-Follow these steps to get the **Contact Form Emailer** running on your system.
+Follow these steps to get the **Form2Mail** running on your system.
 
 ### Prerequisites
 
@@ -130,7 +130,7 @@ To run this contact form processing tool efficiently, you'll need:
 
 ### Sending a Test Request
 
-Once the application is running, you can send a POST request to the `/send-email/` endpoint to test the contact form emailer.
+Once the application is running, you can send a POST request to the `/send-email/` endpoint to test Form2Mail.
 
 #### Example API Request Using cURL
 
@@ -212,7 +212,7 @@ fetch('http://localhost:3081/send-email/', {
 
   _Note_: Even in the case of errors, the application returns a `200 OK` status code with error details in the response body.
 
-## Benefits of Using Contact Form Emailer
+## Benefits of Using Form2Mail
 
 1. **FastAPI Contact Form Processing**: Leverage FastAPI for efficient and high-performance handling of contact form submissions.
 2. **SMTP Integration for Email Delivery**: Use your own SMTP server settings for complete control over email delivery.
@@ -238,9 +238,9 @@ A: Ensure that you set `use_tls=True` and `start_tls=False` in the `send_email` 
 
 A: Yes, you can modify the `ContactForm` model in `app/models/contact.py` to include additional fields, and adjust the `email_service.py` and `contact.py` accordingly.
 
-## Contributing to Contact Form Emailer
+## Contributing to Form2Mail
 
-If you're interested in contributing to **Contact Form Emailer**, feel free to submit issues or pull requests. All contributions are welcome, and you can help improve this tool for the entire community.
+If you're interested in contributing to **Form2Mail**, feel free to submit issues or pull requests. All contributions are welcome, and you can help improve this tool for the entire community.
 
 ## License
 
