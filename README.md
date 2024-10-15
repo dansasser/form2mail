@@ -1,4 +1,5 @@
 # Form2Mail
+![logo_form2mail](https://github.com/user-attachments/assets/0bd1d6f8-f678-4704-b662-5ba52abaad37)
 
 **Form2Mail** is a customizable tool designed to handle website contact form submissions via email using **FastAPI** and **SMTP integration**. It offers secure and efficient contact form processing, automatically sending emails upon form submission, and supports API key authentication for added security. This application is ideal for developers who need a reliable backend service for contact forms with customizable email sending capabilities.
 
