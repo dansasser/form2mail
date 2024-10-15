@@ -222,6 +222,8 @@ fetch('http://localhost:3081/send-email/', {
 4. **Customizable and Extensible**: Easily adjust settings and extend functionalities to fit your specific needs.
 5. **Seamless Deployment**: Simple setup allows for quick deployment in both development and production environments.
 
+![openart-image_EGHePJGc_1729024621521_raw (1)](https://github.com/user-attachments/assets/93b5d55f-629a-4534-be2e-0a293c2678c8)
+
 ## Frequently Asked Questions (FAQ)
 
 ### Q: How do I change the email sender name displayed in the emails?
