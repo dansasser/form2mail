@@ -248,6 +248,12 @@ A: Yes, you can modify the `ContactForm` model in `app/models/contact.py` to inc
 
 If you're interested in contributing to **Form2Mail**, feel free to submit issues or pull requests. All contributions are welcome, and you can help improve this tool for the entire community.
 
+## Resources
+
+- [**Latest Article**](https://dansasser.me/posts/self-hosted-form-api-for-static-sites-form2mail-vs-formspree-vs-google-forms-showdown/)
+
+- [**Gorombo Software Development**](https://gorombo.com)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
